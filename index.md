@@ -1,12 +1,13 @@
+# CV
 # Jane Doe
 ## Junior developer
 
 I'm a junior developer that is always eager to learn new things! Right now I'm looking for a full time position as a Fullstack developer. 
 
-|<td colspan=2>Contact Information||
+|Contact Information||
 |---|---|
 |Phone:|<a href="tel:+123456789">+123456789</a>|
-|Email:|JaneDoe@fakeemail.com|
+|Email:|<a href="email:JaneDoe@fakeemail.com">JaneDoe@fakeemail.com</a>|
 
 ## Education
 High school of excellence, 2017 - 2019
