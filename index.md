@@ -1,4 +1,3 @@
-# CV
 # Jane Doe
 ## Junior developer
 
