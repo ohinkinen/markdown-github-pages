@@ -6,7 +6,7 @@ I'm a junior developer that is always eager to learn new things! Right now I'm l
 |Contact Information||
 |---|---|
 |Phone:|<a href="tel:+123456789">+123456789</a>|
-|Email:|<a href="email:JaneDoe@fakeemail.com">JaneDoe@fakeemail.com</a>|
+|Email:|<a href="mailto:JaneDoe@fakeemail.com">JaneDoe@fakeemail.com</a>|
 
 ## Education
 High school of excellence, 2017 - 2019
